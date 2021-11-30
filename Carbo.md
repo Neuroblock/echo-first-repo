@@ -17,4 +17,4 @@ My 3 dogs are
 
 **This is in bold**
 
-IO am adding code to `Github`
+I am adding code to `Github`

@@ -7,3 +7,8 @@ PUSH
 ## It is fun to learn
 
 ### Echo
+
+My 3 dogs are
+- Elvis
+- Magik
+- Guapo

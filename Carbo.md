@@ -12,3 +12,7 @@ My 3 dogs are
 - Elvis
 - Magik
 - Guapo
+
+*This is in italics*
+
+**This is in bold**
